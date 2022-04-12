@@ -16,6 +16,7 @@
   - https://stackoverflow.com/questions/45033980/how-to-compute-aic-for-linear-regression-model-in-python
 
 - BIC
+  - https://www.statology.org/bic-in-python/  
 
 
 
