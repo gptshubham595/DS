@@ -1,6 +1,6 @@
 # Colab
 
-- [bit.ly/iitgds1](bit.ly/iitgds1)
+- [bit.ly/iitgds1](http://bit.ly/iitgds1)
 
 - UNTOUCHED
   - [https://colab.research.google.com/drive/1aazYayrU83eLTXzBHVygjsxoytrfU9_z?usp=sharing](https://colab.research.google.com/drive/1aazYayrU83eLTXzBHVygjsxoytrfU9_z?usp=sharing)
