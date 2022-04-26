@@ -1,5 +1,13 @@
 # Colab
-- https://jupyter.org/try-jupyter/lab/
+1.	Visual studio code(VSC): https://vscode.dev
+2.	Jupyter Notebook: https://jupyter.org/try-jupyter/lab/
+3.	Online Python Compiler:  https://www.programiz.com/python-programming/online-compiler/
+4.	MATLAB: https://matlab.mathworks.com/ (Login with your IITG credentials)
+5.	
+Other Important Links 
+1.	Link for Moodle: instaqp.gitaa.in
+2.	IITG internet login page: https://agnigarh.iitg.ac.in:1442/login? 
+
 - [bit.ly/iitgds1](http://bit.ly/iitgds1)
 
 - UNTOUCHED
